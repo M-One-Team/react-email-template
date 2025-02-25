@@ -1,7 +1,5 @@
 Design a fully responsive, production-ready email template using the React Email library (@react-email on npm).
 The email should adhere to modern, minimalist design principles and be styled with Tailwind CSS.
 The template should be structured using React components and should not rely on additional UI libraries or frameworks unless explicitly requested.
-Do not use example templates. Create your own original design from scratch.
 Use valid image URLs from sources like Unsplash, do not embed the images.
-Include a .tsx file demonstrating how to structure the email template using React components.
 Test and verify that the image URLs are functional and accessible.
