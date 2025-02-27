@@ -1,6 +1,6 @@
-Design a fully responsive, production-ready email template using the React Email library (@react-email on npm).
+Design a fully responsive, production-ready email template using the React Email library.
 The email should adhere to modern, minimalist design principles.
-The template should be structured using React components and should not rely on additional UI libraries or frameworks unless explicitly requested.
-Use valid image URLs from sources like Unsplash, do not embed the images.
+The template should be structured using React Email components and should not rely on additional UI libraries or frameworks unless explicitly requested.
+Use valid image URLs from reliable sources such as Unsplash or Pexels. If you know of other trustworthy sources, you can use them as well. Do not embed images directly.
 You can review the example.tsx file, which represents the email template. Make your changes directly to the example.tsx file based on the requirements.
 Test and verify that the image URLs are functional and accessible.
