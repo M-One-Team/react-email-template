@@ -1,13 +1,17 @@
-Modify only the `example.tsx` file to meet the following **MJML email** requirements. Do not create or edit additional files.  
+Modify only the `example.tsx` file to meet the following **React Email** requirements. Do not create or edit additional files.  
 
-### 📌 Requirements:  
+### 📌 **Core Requirements:**  
 
-1. **Use Only MJML Components** – No third-party libraries or custom HTML.  
-2. **Mobile-First & Responsive** – Ensure perfect adaptability across devices and email clients.  
-3. **Well-Spaced & Structured Layout** – Sections and list items must have proper **margins, padding, and alignment**.  
-4. **Distinct Backgrounds & High Contrast** – Improve readability with unique section colors and strong text-background contrast.  
-5. **External Images Only** – Use **valid** URLs from trusted sources (Unsplash, Pexels, Freepik, StockSnap).  
-6. **No Navigation Links in Header** – Keep it clean and simple.  
-7. **Polished Footer with Social Icons** – Icons must be **properly sized, visible, and have clear contrast**.  
+1. **Use Only React Email Components** – No third-party libraries or raw HTML/CSS.  
+2. **Fully Responsive & Mobile-First** – Ensure seamless display across devices and email clients.  
+3. **Well-Structured & Spaced Layout** – Proper **margins, padding, and alignment** for readability.  
+4. **Distinct Backgrounds & High Contrast** – Improve clarity with section colors and strong text-background contrast.  
+5. **External Images Only** – Use **valid** URLs from Unsplash, Pexels, Freepik, or StockSnap.  
+6. **Well-Spaced List Items** – Lists must be **properly structured and visually balanced**.  
+7. **Polished, Professional Design** – Clean typography, modern layout, and no excessive whitespace.  
+8. **No Navigation Links in Header** – Keep it simple.  
+9. **Footer Icons & Logos** – Social icons must be **clearly visible, aligned, and high-contrast**.  
+10. **Consistency & Readability** – Uniform fonts, spacing, and layout.  
 
-Ensure the final design looks **premium, clean, and professional**, with a **well-balanced layout and typography**.  
+### 🎯 **Final Output:**  
+A **fully responsive, visually appealing** React Email template with **proper spacing and structure**, ensuring compatibility across email clients.  
