@@ -1,55 +1,13 @@
-Review and improve the `example.tsx` file to meet the following requirements, ensuring the email template is fully **responsive, visually appealing, and well-structured** using only **React Email** components.
+Modify only the `example.tsx` file to meet the following **MJML email** requirements. Do not create or edit additional files.  
 
----
+### 📌 Requirements:  
 
-## 📌 **Core Requirements:**
+1. **Use Only MJML Components** – No third-party libraries or custom HTML.  
+2. **Mobile-First & Responsive** – Ensure perfect adaptability across devices and email clients.  
+3. **Well-Spaced & Structured Layout** – Sections and list items must have proper **margins, padding, and alignment**.  
+4. **Distinct Backgrounds & High Contrast** – Improve readability with unique section colors and strong text-background contrast.  
+5. **External Images Only** – Use **valid** URLs from trusted sources (Unsplash, Pexels, Freepik, StockSnap).  
+6. **No Navigation Links in Header** – Keep it clean and simple.  
+7. **Polished Footer with Social Icons** – Icons must be **properly sized, visible, and have clear contrast**.  
 
-1. **🔹 Use Only React Email Components**
-   - Stick to **React Email** components for layout, typography, and styling.
-   - Do **not** use third-party UI libraries or raw HTML/CSS unless explicitly specified.
-
-2. **📱 Mobile-First & Fully Responsive**
-   - The design must follow a **mobile-first approach**, ensuring it adapts **seamlessly** across all screen sizes and email clients.
-   - No elements should break or overlap on different email platforms.
-
-3. **🎨 Well-Structured & Aesthetic Layout**
-   - Ensure each section has **distinct spacing and padding** for readability.
-   - Items within sections must have **proper margins** to avoid stacking without spacing.
-
-4. **🌈 Clear Section Separation with Background Colors**
-   - Each section must have a **unique background color** to enhance visual clarity.
-   - Ensure **high contrast** between text and background for **optimal readability**.
-
-5. **🖼️ External Images (No Embedding)**
-   - Use **reliable image sources** such as **Unsplash, Pexels, Freepik, or StockSnap**.
-   - Validate all image URLs to ensure they are **functional and accessible**.
-
-6. **✅ Well-Spaced List Items**
-   - Ensure that list items (e.g., `<ul>` or `<ol>`) are **evenly spaced** and **not stacked without margins**.
-   - Lists must be **flexible, well-structured**, and not appear cluttered.
-
-7. **🚀 Professional & Polished Design**
-   - The email must have a **premium feel** with:
-     - Clean and **modern typography**.
-     - A **balanced** layout without excessive whitespace.
-     - Well-structured sections that make the content **engaging and easy to read**.
-
-8. **🚫 No Navigation Links in the Header**
-   - Do **not** include navigation links (e.g., Home, About, Contact) in the header.
-
-9. **📢 Footer Icons & Logos:**
-   - **Social media icons** (e.g., Facebook, Twitter, Instagram) must be:
-     - **Properly sized** and aligned.
-     - Have **clear contrast** with their background to avoid invisible elements.
-     - Not appear distorted or misaligned.
-
-10. **⚡ Consistency & Readability**
-   - Ensure a **consistent font style, size, and spacing** throughout.
-   - Avoid inconsistent padding or misaligned elements.
-
----
-
-## 🔥 **Final Output Expectations:**
-- A **fully responsive**, visually polished **React Email** template.
-- Sections and list items should have **consistent margins** and **not be stacked improperly**.
-- The UI should feel **modern, clean, and professional** while maintaining **full compatibility across email clients**.
+Ensure the final design looks **premium, clean, and professional**, with a **well-balanced layout and typography**.  
